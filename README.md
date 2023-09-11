@@ -46,8 +46,3 @@ Build ETL Pipeline with the following steps:
 
 3. Test by creating SELECT statements and running the queries on the database
 
-
-
-```python
-
-```
